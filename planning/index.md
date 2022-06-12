@@ -1,10 +1,8 @@
 # Project Planning
 ## To Do List:
-- [ ] Ideation
+- [x] Ideation
   - [x] Project Title
-  - [ ] Project Features
-
-- [ ] User Stories
+  - [x] Project Features (serving as user stories)
 
 - [ ] ERD
 
