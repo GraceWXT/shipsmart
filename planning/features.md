@@ -54,8 +54,8 @@ Shipsmart is a web app designed to facilitate inventory and order management for
 - _View sample order status_
 
 ### Sales Person
-- Check product availability and price (mobile responsive)
-- Create special quote
+- _Check product availability and price (mobile responsive)_
+- _Create special quote_
 - _Start, view and edit Claim request_
 - _Create, view, edit and cancel sample order_
 - _Update sample display info_
