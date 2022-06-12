@@ -7,7 +7,8 @@ Shipsmart is a web app designed to facilitate inventory and order management for
 - Purchasing
 - Warehouse Staff (Inventory Admin)
 - Order Desk
-- Account(billing) -> Customers(shipping)
+- Account(billing & ordering, admin?)
+- Customers(ordering)
 - _Sales person_
 - _Sample department_
 
@@ -18,6 +19,8 @@ Shipsmart is a web app designed to facilitate inventory and order management for
 - Assign/unassign users to/from roles
 - Manage Roles
 - Manage users
+- Create, edit and deactivate warehouses
+- _Approve special quote from sales person_
 
 ### Purchasing
 - Create product/collection
@@ -43,10 +46,20 @@ Shipsmart is a web app designed to facilitate inventory and order management for
 - Send invoice for shipped orders
 
 ### Accounts/Customers
+- Check account status (only account admin)
 - Check product availability and price
 - Create temporary hold
-- Create order
-- Check account status
+- Create, view, edit and cancel sales order
+- _View Claim request status_
+- _View sample order status_
 
 ### Sales Person
-- Check product availability and price
+- Check product availability and price (mobile responsive)
+- Create special quote
+- _Start, view and edit Claim request_
+- _Create, view, edit and cancel sample order_
+- _Update sample display info_
+
+### Sample Department
+- _View and update sample order status_
+- _Update sample order inventory_
